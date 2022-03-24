@@ -1,0 +1,32 @@
+.header{
+    background-color: skyblue;
+    height: 50px;
+}
+.middle{
+    display: flex;
+}
+.navigation{
+    display: flex;
+    width: 33%;
+    height: 500px;
+    flex-direction: row;
+    background-color: goldenrod;
+}
+.Article{
+    display: flex;
+    width: 33%;
+    height: 500px;
+    flex-direction: row;
+    background-color: palegoldenrod;
+}
+.aside{
+    display: flex;
+    width: 33%;
+    height: 500px;
+    flex-direction: row;
+    background-color: lightyellow;
+}
+.footer{
+  background-color: skyblue;
+  height: 50px;
+}
